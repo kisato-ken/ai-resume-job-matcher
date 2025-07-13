@@ -1,0 +1,78 @@
+John Doe
+Software Engineer
+john.doe@email.com | (555) 123-4567 | linkedin.com/in/johndoe | github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Software Engineer with 5+ years of experience in developing scalable web applications using modern technologies. Proficient in Python, JavaScript, React, and cloud technologies. Passionate about creating efficient, user-friendly solutions and staying current with emerging technologies.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, JavaScript, TypeScript, Java, C++
+• Frontend: React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+• Backend: Node.js, Express, Django, Flask, FastAPI, Spring Boot
+• Databases: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+• Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, Terraform, Git
+• Data Science: Pandas, NumPy, scikit-learn, TensorFlow, Jupyter
+• Tools: VS Code, Jira, Confluence, Figma, Postman
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | San Francisco, CA | 2021 - Present
+• Led development of microservices architecture using Python and Docker, improving system scalability by 40%
+• Built responsive web applications using React and Next.js, serving 100K+ daily active users
+• Implemented CI/CD pipelines with Jenkins and AWS, reducing deployment time by 60%
+• Mentored junior developers and conducted code reviews following Agile methodologies
+• Collaborated with product managers and designers using Jira and Confluence
+
+Software Engineer | StartupXYZ | Austin, TX | 2019 - 2021
+• Developed RESTful APIs using Node.js and Express, handling 1M+ requests daily
+• Created interactive dashboards with React and D3.js for data visualization
+• Optimized database queries in PostgreSQL, improving performance by 35%
+• Participated in sprint planning and daily standups following Scrum framework
+• Contributed to open-source projects and technical documentation
+
+Junior Developer | WebSolutions LLC | Remote | 2018 - 2019
+• Built and maintained WordPress websites using PHP and MySQL
+• Implemented responsive designs using HTML5, CSS3, and JavaScript
+• Collaborated with design team to ensure pixel-perfect implementations
+• Learned version control with Git and participated in team code reviews
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley | 2018
+• Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering
+• GPA: 3.7/4.0
+• Senior Project: Machine Learning-based recommendation system using Python and TensorFlow
+
+PROJECTS
+AI Resume Matcher (2024)
+• Built an intelligent resume analysis system using Python, FastAPI, and React
+• Implemented NLP algorithms with spaCy for skill extraction and job matching
+• Created responsive UI with Next.js and Tailwind CSS
+• Technologies: Python, FastAPI, React, Next.js, spaCy, scikit-learn
+
+E-commerce Platform (2023)
+• Developed full-stack e-commerce application with React frontend and Node.js backend
+• Integrated payment processing with Stripe API and inventory management
+• Deployed on AWS using Docker containers and RDS database
+• Technologies: React, Node.js, Express, PostgreSQL, AWS, Docker
+
+Data Analytics Dashboard (2022)
+• Created real-time analytics dashboard for business metrics visualization
+• Processed and analyzed large datasets using Python and Pandas
+• Built interactive charts with D3.js and React components
+• Technologies: Python, React, D3.js, PostgreSQL, Redis
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate (2023)
+• MongoDB Certified Developer (2022)
+• Google Analytics Certified (2021)
+
+LANGUAGES
+• English (Native)
+• Spanish (Conversational)
+• French (Basic)
+
+INTERESTS
+• Machine Learning and AI research
+• Open source contributions
+• Tech blogging and community speaking
+• Rock climbing and hiking
